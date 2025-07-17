@@ -81,6 +81,10 @@ body {
   font-size: 0.9em;
 }
 
+.contact-item span a {
+  color: gold;
+}
+
 .main-content {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -221,7 +225,7 @@ body {
 .links-section {
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   color: white;
-  padding: 30px 40px;
+  padding: 30px 20px;
   margin-top: 0;
 }
 
